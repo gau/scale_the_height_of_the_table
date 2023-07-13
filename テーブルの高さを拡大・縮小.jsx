@@ -4,7 +4,7 @@
 	var settings = {
 		'lineMode' : 0,
 		'scale' : 100,
-		'updateEvent' : 'changing',
+		'updateEvent' : 'change',
 		'noTargetName' : 'no-scale'
 	};
 
